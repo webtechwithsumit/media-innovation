@@ -1,0 +1,126 @@
+.fa-caret-down {
+    float: right;
+    padding-right: 8px;
+    
+}
+
+.dropdown-container {
+    display: none;
+    padding-left: 8px;
+}
+
+
+
+.list-of-services {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: #ffffff;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 10px;
+}
+
+.icon-fa {
+    padding-right: 15px;
+    color: #BF261E;
+    padding-left: 10px;
+}
+
+.nav-img {
+    margin-left: 30px;
+    margin-bottom: 20px;
+    font-size: 5px;
+}
+
+.social-list {
+    padding-top: 100px;
+    padding-left: 30px;
+}
+
+.social {
+    font-size: 18px;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #000000;
+    display: block;
+    transition: 0.3s;
+    padding-top: 18px;
+    border-bottom: 1px solid lightgrey;
+    font-family: system-ui;
+}
+
+.sidenav a:hover {
+    color: #b30000;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+    border: none;
+}
+ .width-logo img {
+   width: 50%;
+ }
+ 
+ .logo-img {
+   margin-top: 30px;
+   width: 8%;
+   margin-left: auto;
+   margin-right: auto;
+ }
+.navbar.sidemenu-nav {
+  position: absolute;
+  z-index: 19;
+  top: 2%;
+  width: 100%;
+  padding-right: 30px;
+}
+.menu-btn {
+  display: -ms-inline-grid;
+  display: inline-grid;
+  width: 36px;
+  height: auto;
+  cursor: pointer;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 10px;
+  padding-bottom: 6px;
+  background-color: #fff;
+
+}
+.menu-btn:hover {
+  background-color: #fff !important;
+  color: #000 ! important;
+
+}
+
+.menu-btn span {
+  background-color: #000;
+  margin-bottom: 4px;
+  height: 3px;
+  width: 100%;
+}
+
+
+.home1-icon {
+    position: absolute;
+    right: 80px;
+    font-size: 31px !important;
+    color: #fff !important;
+}

@@ -1,0 +1,131 @@
+.footer-sec {
+    padding: 2rem;
+    background: #000000;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer-social li {
+    display: inline-block;
+  }
+  
+  .footer-social a {
+    display: block;
+    width: 45px;
+    color: #000000;
+    height: 45px;
+    text-align: center;
+    line-height: 45px;
+    border-radius: 50px;
+    visibility: visible !important;
+    font-size: 17px;
+    margin: 10px 5px;
+    border: 1px solid transparent;
+    -webkit-transition: background-color .2s ease-in-out;
+    -o-transition: background-color .2s ease-in-out;
+    transition: background-color .2s ease-in-out;
+  }
+  
+  .footer-social li a:hover {
+    background-color: #B30000;
+    color: #ffffff;
+  }
+  
+  .grey-text {
+    color: #FFFFFF;
+  }
+
+  /* footer{
+      display: flex;
+      flex-direction: column;
+      flex-wrap: wrap;
+      background-color: black;
+      padding-top: 20px;
+      width: 100%;
+  } */
+
+  h4 small{
+      color: white;
+      font-weight: bold;
+      font-size: 20px;
+  }
+
+ .form-group input{
+      width: 45vh;    
+  }  
+
+  form .button-two{
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      background-color: #B30000;
+  }
+
+  .button-two span{
+      color: white;
+  }
+
+  .simple-text p{
+      font-size: 12px;
+  }
+
+  .webintern-footer-inner{
+      margin-left: 25px;
+  }
+
+  .webintern-footer-list{
+      text-decoration: none;
+      list-style: none;
+  }
+
+  ul li i{
+      margin-right: 5px;
+  }
+
+  ul li a{
+      color: rgb(145, 145, 145);
+  }
+
+  .scrollTop{
+      background-color: #2250fc;
+  }
+
+  footer .footer-3 hr{
+      border: none;
+      width: 15vh;
+      height: 3px;
+      background-image: linear-gradient( to right ,#B30000,#2250fc);
+  }
+
+  footer .footer-2 hr{
+      border: none;
+      width: 15vh;
+      height: 3px;
+      background-image: linear-gradient( to right ,#B30000,#2250fc);
+  }
+
+  .col-sm-6 hr{
+    border: none;
+    width: 15vh;
+    height: 3px;
+    background-image: linear-gradient( to right ,#B30000,#2250fc);
+  }
+
+  .webintern-footer-list li{
+      margin-bottom: 6px;
+  }
+
+form .form-group input{
+    width: 90%;
+}
+ 
+/* #portfolio .portfolio-item a{
+    background-image: url('../bottle.jpg') no-repeat center center/ cover;
+} */
+
+/* #portfolio .portfolio-item .portfolio-item-wrap .portfolio-description .portfolio-page-grid-gallery.html hr{
+    border: none;
+    width: 15vh;
+    height: 3px;
+    background-image: linear-gradient( to right ,#B30000,#2250fc);
+} */
